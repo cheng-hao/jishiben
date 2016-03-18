@@ -1,0 +1,11 @@
+<input ng-model="canvasWH.height" type="range" min="400" max="600" step="1">
+ ng-model 数据关联
+ range    在input里变成滚动条
+ min      最小宽
+ max      最大宽
+ step     每次移动的距离
+
+getImageDate(x,y,w,h)
+putImageDate(el,x,y)
+ 
+
